@@ -8,3 +8,5 @@ def chat(mess):
 
     res = responde['choices'][0]['message']['content']
     return res
+
+𥌓
